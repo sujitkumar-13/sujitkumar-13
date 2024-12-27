@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkumar-13&color=blueviolet" alt="Profile views" /> </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a> 
-</p>
-
 ## 🚀 About Me
 I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
 
