@@ -1,6 +1,15 @@
-# Hi there, I'm Sujit Kumar 👋
+<h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
+<h3 align="center">A passionate frontend developer from INDIA</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sujitkumar-13&color=blueviolet)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkumar-13&color=blueviolet" alt="Profile views" /> </p>
+
+<p align="left"> 
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a> 
+</p>
 
 ## 🚀 About Me
 I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
@@ -8,7 +17,7 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 - 🌱 Currently learning **Machine Learning and AI**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, and Cloud Computing**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [sujitkumar60395@gmail.com](mailto:sujitkumar60395@gmail.com)
 - ⚡ Fun fact: I love **hiking** and **photography**
 
 ## 🛠 Skills
@@ -38,9 +47,9 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 
 ## 📫 Connect with me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:sujitkumar60395@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sujit-kumar-learner/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-profile" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ## 🎨 Fun with Badges
