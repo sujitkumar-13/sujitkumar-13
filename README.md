@@ -14,9 +14,9 @@
 ## 🚀 About Me
 I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
 
-- 🌱 Currently learning **Machine Learning and AI**
+- 🌱 Currently learning **JavaScript**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, and Cloud Computing**
+- 💬 Ask me about **, HTML, CSS and JavaScript**
 - 📫 How to reach me: [sujitkumar60395@gmail.com](mailto:sujitkumar60395@gmail.com)
 - ⚡ Fun fact: I love **hiking** and **photography**
 
@@ -28,12 +28,6 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🔥 Projects
-- **[Project 1](https://github.com/sujitkumar-13/project1)**: A brief description of your project.
-- **[Project 2](https://github.com/sujitkumar-13/project2)**: A brief description of your project.
-
-## 🏆 Achievements
-- **GitHub Stars**: 100+ stars on various repositories.
-- **Open Source Contributions**: Contributor to several popular open-source projects.
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -45,6 +39,5 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 <p align="center">
   <a href="mailto:sujitkumar60395@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/sujit-kumar-learner/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-profile" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/_sujit_kumar13" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-
