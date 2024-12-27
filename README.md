@@ -48,9 +48,3 @@ I'm a passionate developer with a love for creating innovative solutions and lea
   <a href="https://twitter.com/your-profile" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-## 🎨 Fun with Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%3CCOLOR%3E?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%3CCOLOR%3E?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Lover">
-  <img src="https://img.shields.io/badge/Cloud%20Computing-%3CCOLOR%3E?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Cloud Computing">
-</p>
