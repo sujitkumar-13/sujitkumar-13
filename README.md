@@ -36,43 +36,6 @@ I'm a passionate developer with a love for creating innovative solutions and lea
   <a href="https://instagram.com/_sujit_kumar13" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-
-  name: Update README
-
-on:
-  schedule:
-    # Runs every day at midnight
-    - cron: '0 0 * * *'
-  push:
-    branches:
-      - main
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Generate GitHub Stats
-        run: |
-          curl -o README.md "https://raw.githubusercontent.com/sujitkumar-13/repo-name/main/README_TEMPLATE.md"
-          echo "## 📈 GitHub Stats" >> README.md
-          echo '<p align="center">' >> README.md
-          echo '  <img src="https://github-readme-stats.vercel.app/api?username=sujitkumar-13&show_icons=true&theme=radical" alt="Sujit Kumar\'s GitHub stats" />' >> README.md
-          echo '  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitkumar-13&layout=compact&theme=radical" alt="Top Languages" />' >> README.md
-          echo '</p>' >> README.md
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "Update README with latest GitHub stats"
-          git push
-
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
