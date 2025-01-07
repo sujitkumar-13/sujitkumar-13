@@ -26,7 +26,7 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujitkumar-13&show_icons=true&theme=radical" alt="Sujit Kumar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitkumar-13&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitkumar-13&layout=compact&theme=radical&count_private=true&private_token=YOUR_GITHUB_TOKEN" alt="Top Languages" />
 </p>
 
 ## 📫 Connect with me
