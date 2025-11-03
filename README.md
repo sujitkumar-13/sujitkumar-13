@@ -26,8 +26,6 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
-## 🔥 Projects
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujitkumar-13&show_icons=true&theme=radical" alt="Sujit Kumar's GitHub stats" />
