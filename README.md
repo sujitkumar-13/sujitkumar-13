@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
-<h3 align="center">A passionate frontend developer from INDIA</h3>
+<h3 align="center">A passionate Full Stack developer from INDIA</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,9 +8,9 @@
 ## 🚀 About Me
 I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
 
-- 🌱 Currently learning **JavaScript**
+- 🌱 Currently learning **Java**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **, HTML, CSS and JavaScript**
+- 💬 Ask me about **, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Angular**
 - 📫 How to reach me: [sujitkumar60395@gmail.com](mailto:sujitkumar60395@gmail.com)
 - ⚡ Fun fact: I love **hiking** and **photography**
 
