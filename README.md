@@ -11,7 +11,7 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 - 🌱 Currently learning **Java**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Angular**
-- 📫 How to reach me: [sujitkumar60395@gmail.com](mailto:sujitkumar60395@gmail.com)
+- 📫 How to reach me: [sujitkumar19013@gmail.com](mailto:sujitkumar19013@gmail.com)
 - ⚡ Fun fact: I love **hiking** and **photography**
 
 ## 🛠 Skills
@@ -20,6 +20,11 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ## 🔥 Projects
 
